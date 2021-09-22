@@ -1,4 +1,5 @@
 # 用法
+需要事先安装好yq命令
 ```console
 bash export-deploy.sh NAMESPACE DIR
 # NAMESPACE为名称空间
